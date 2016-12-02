@@ -12,7 +12,7 @@
     <artifactId>fd-search</artifactId>
     <packaging>jar</packaging>
     <properties>
-        <es.version>2.4.0</es.version>
+        <es.version>2.4.2</es.version>
     </properties>
 
     <dependencies>
