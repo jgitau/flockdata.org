@@ -29,6 +29,12 @@
             <version>${project.version}</version>
         </dependency>
 
+        <dependency>
+            <groupId>org.flockdata</groupId>
+            <artifactId>fd-security</artifactId>
+            <version>${project.version}</version>
+        </dependency>
+
         <!--<dependency>-->
             <!--&lt;!&ndash;https://github.com/testcontainers/testcontainers-java/blob/master/docs/index.md&ndash;&gt;-->
             <!--&lt;!&ndash;<groupId>org.testcontainers</groupId>&ndash;&gt;-->

@@ -26,7 +26,7 @@ import org.springframework.integration.annotation.ServiceActivator;
 import org.springframework.stereotype.Service;
 
 /**
- * @tag Administration
+ * @tag Administration, Messaging
  */
 @Service
 @MessageEndpoint
